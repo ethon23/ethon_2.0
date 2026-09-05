@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Boishakhi Afreen",
+    "role": "Marketing Lead",
+    "text": "Ethon truly understood our brand from day one. The design direction felt clean, modern and thoughtful, and our users now find the whole experience far easier to navigate.",
+    "rating": 4.9,
+    "avatar": "assets/testimonial-boishakhi.jpg",
+    "published": true,
+    "source": "seed",
+    "location": "Bangladesh",
+    "flagSvg": "/assets/flags/bd.svg"
+  },
+  {
+    "id": 2,
+    "name": "James Carter",
+    "role": "SaaS Founder",
+    "text": "Communication was fast and clear at every step of the project. Ethon paid close attention to every small detail, and each round of revisions made the product noticeably better.",
+    "rating": 4.9,
+    "avatar": "assets/testimonial-james.jpg",
+    "published": true,
+    "source": "seed",
+    "location": "United States",
+    "flagSvg": "/assets/flags/us.svg"
+  },
+  {
+    "id": 3,
+    "name": "Amanda Jtby",
+    "role": "Small Business Owner",
+    "text": "I loved the balance between visual polish and real practical usability. Ethon kept development in mind throughout the design, so nothing ever needed to be reworked later.",
+    "rating": 4.9,
+    "avatar": "assets/testimonial-amanda.jpg",
+    "published": true,
+    "source": "seed",
+    "location": "United Kingdom",
+    "flagSvg": "/assets/flags/gb.svg"
+  },
+  {
+    "id": 4,
+    "name": "Emma Johansson",
+    "role": "Product Manager",
+    "text": "The final interface feels genuinely premium while staying simple for everyday users. Ethon has a rare talent for making complex flows feel effortless and intuitive.",
+    "rating": 4.9,
+    "avatar": "assets/testimonial-emma.jpg",
+    "published": true,
+    "source": "seed",
+    "location": "Mexico",
+    "flagSvg": "/assets/flags/mx.svg"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Mitchell",
+    "role": "E-commerce Founder",
+    "text": "Ethon translated a rough idea into a clear, consistent visual system our whole team could easily hand off to developers. The entire process felt smooth from start to finish.",
+    "rating": 4.9,
+    "avatar": "assets/testimonial-sarah.jpg",
+    "published": true,
+    "source": "seed",
+    "location": "Philippines",
+    "flagSvg": "/assets/flags/ph.svg"
+  },
+  {
+    "id": 6,
+    "name": "Shakil Khan Rifat",
+    "role": "Startup CEO",
+    "text": "Working with Ethon meant strong UI thinking paired with smooth, fast iterations. The final presentation was polished and professional, exactly what our investors needed to see.",
+    "rating": 4.9,
+    "avatar": "assets/testimonial-shakil.jpg",
+    "published": true,
+    "source": "seed",
+    "location": "Bangladesh",
+    "flagSvg": "/assets/flags/bd.svg"
+  },
+  {
+    "id": 7,
+    "name": "Priya Sharma",
+    "role": "Marketing Manager",
+    "text": "Ethon delivered a polished, modern interface with thoughtful little details throughout. Every screen felt consistent, and the overall visual quality genuinely exceeded expectations.",
+    "rating": 4.9,
+    "avatar": "assets/testimonial-priya.jpg",
+    "published": true,
+    "source": "seed",
+    "location": "India",
+    "flagSvg": "/assets/flags/in.svg"
+  },
+  {
+    "id": 8,
+    "name": "Alex Kim",
+    "role": "Product Designer",
+    "text": "The design feels premium, intuitive and professional from the very first screen. Communication stayed smooth throughout, and the final result exceeded our expectations by far.",
+    "rating": 4.9,
+    "avatar": "assets/testimonial-alex.jpg",
+    "published": true,
+    "source": "seed",
+    "location": "South Korea",
+    "flagSvg": "/assets/flags/kr.svg"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Rose",
+    "role": "Startup Founder",
+    "text": "It was a clean and creative experience with real attention to usability at every step. I would gladly recommend Ethon to any founder building their first product.",
+    "rating": 4.9,
+    "avatar": "assets/testimonial-daniel.jpg",
+    "published": true,
+    "source": "seed",
+    "location": "Australia",
+    "flagSvg": "/assets/flags/au.svg"
+  }
+]
